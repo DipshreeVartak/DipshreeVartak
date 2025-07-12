@@ -14,7 +14,7 @@
 - 🔭 **Currently Working On:** Machine Learning Projects  
 - 🌱 **Learning:** Machine Learning Advance, Deep learning and Advanced AI Techniques  
 - 💬 **Ask Me About:** Python, Machine Learning, and Data Analysis  
-- 📫 **Reach Me At:** dipshreeavartak@gmail.com 
+- 📫 **Reach Me At:** [dipshreeavartak@gmail.com](mailto:dipshreeavartak@gmail.com)
 - 👨‍💻 **Explore My Projects:** [GitHub Profile](https://github.com/DipshreeVartak)
 ---
 
