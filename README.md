@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Yash Purbhe**  
+# Hi 👋, I'm **Dipshree Vartak**  
 ### 🚀 A Passionate AIML Engineer  
 
 📚 Currently pursuing a degree in **CSE (AIML)** at **SCOE**
