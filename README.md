@@ -106,9 +106,9 @@
 
 <!-- ═══════════════ ROW 2 — 2 COLUMNS ═══════════════ -->
 
-<table border="0" cellspacing="0" cellpadding="12" width="100%">
+<table border="0" cellspacing="0" cellpadding="12" width="100%" style="margin: 0 auto;">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
 ### 🗄️ Databases
 
@@ -117,7 +117,7 @@
 
 </td>
 <td width="1px" style="border-left: 2px solid #1561bd; padding:0;"></td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
 ### 🛠️ Tools & Dev Environment
 
@@ -129,7 +129,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
