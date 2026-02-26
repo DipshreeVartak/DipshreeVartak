@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8B1A4A,100:FFB6C1&height=220&section=header&text=Dipshree%20Vartak&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20AIML%20Engineer%20·%20Machine%20Learning%20·%20Generative%20AI&descAlignY=58&descSize=16&descColor=FFD6E7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8B1A4A,100:FFB6C1&height=220&section=header&text=Dipshree%20Vartak&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20AIML%20Engineer%20·%20Machine%20Learning%20·%20Deep%20Learning%20·%20Generative%20AI&descAlignY=58&descSize=16&descColor=FFD6E7" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D63384&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dipshree+%F0%9F%91%8B;Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG" /></a>
 
@@ -102,9 +102,9 @@
 </table>
 
 <!-- ═══════════ DIVIDER 2 ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd,100:1560BD&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd,100:1a3a6b&height=4&section=header" />
 
-<!-- ═══════════════ ROW 3 — 2 COLUMNS ═══════════════ -->
+<!-- ═══════════════ ROW 2 — 2 COLUMNS ═══════════════ -->
 
 <table border="0" cellspacing="0" cellpadding="12" width="100%">
 <tr>
