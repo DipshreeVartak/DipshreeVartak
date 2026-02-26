@@ -137,7 +137,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipshreevartak&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF85A1&icon_color=D63384&text_color=ffffff" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipshreevartak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF85A1&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipshreevartak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF85A1&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
