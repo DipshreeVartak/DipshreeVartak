@@ -102,13 +102,13 @@
 </table>
 
 <!-- ═══════════ DIVIDER 2 ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd,100:1a3a6b&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1561bd,100:1560BD&height=4&section=header" />
 
-<!-- ═══════════════ ROW 2 — 2 COLUMNS ═══════════════ -->
+<!-- ═══════════════ ROW 3 — 2 COLUMNS ═══════════════ -->
 
-<table border="0" cellspacing="0" cellpadding="12" width="100%" style="margin: 0 auto;">
+<table border="0" cellspacing="0" cellpadding="12" width="100%" align="center">
 <tr>
-<td width="50%" valign="middle" align="center">
+<td width="50%" height="120" valign="middle" align="center">
 
 ### 🗄️ Databases
 
@@ -116,8 +116,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </td>
-<td width="1px" style="border-left: 2px solid #1561bd; padding:0;"></td>
-<td width="50%" valign="middle" align="center">
+<td width="1px" height="120" style="border-left: 2px solid #1561bd; padding:0;"></td>
+<td width="50%" height="120" valign="middle" align="center">
 
 ### 🛠️ Tools & Dev Environment
 
@@ -129,6 +129,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
